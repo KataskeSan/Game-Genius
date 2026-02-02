@@ -5,4 +5,6 @@
 
     | . Fique avontade para testar o código!
 
+    | . Divirtase! [JOGAR](https://elaborate-axolotl-5d752a.netlify.app/)
+
 Link do código oferecido pela plataforma **[DIO](https://github.com/SpruceGabriela/genesis-dio)** !
